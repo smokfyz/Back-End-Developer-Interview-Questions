@@ -48,7 +48,7 @@ Sooner or later I will complete it with the relative answers. Feel free to contr
 
 ### [[↑]](#toc) <a name='patterns'>Questions about Design Patterns:</a>
 
-* Why are global and static objects evil? Can you show it with a code example?
+* ~~Why are global and static objects evil? Can you show it with a code example?~~
 * Tell me about Inversion of Control and how it improves the design of code.
 * The Law of Demeter (the Principle of Least Knowledge) states that each unit should have only limited knowledge about other units and it should only talk to its immediate friends (sometimes stated as "don't talk to strangers"). Would you write code violating this principle, show why it is a bad design and then fix it?
 * Active-Record is the design pattern that promotes objects to include functions such as Insert, Update, and Delete, and properties that correspond to the columns in some underlying database table. In your opinion and experience, which are the limits and pitfalls of the this pattern?
